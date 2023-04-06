@@ -4,4 +4,4 @@
 http://itcareer.pythonanywhere.com
 
 ## Чеклист и баг-репорты формы
-https://docs.google.com/spreadsheets/d/1whGAt7fCCzNGCQsGNc2i2GZUCG0DIabh/edit?usp=sharing&ouid=113058602588459881517&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1whGAt7fCCzNGCQsGNc2i2GZUCG0DIabh/edit?usp=sharing
